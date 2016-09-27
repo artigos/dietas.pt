@@ -3,9 +3,9 @@ layout: default
 title: Mito, Os medicamentos para perder peso não causam uma perda de peso suficiente para os tornar uma opção no tratamento
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##As perdas de peso a curto-prazo são bastante frequentes e podem atingir-se com vários tipos de intervenções. No entanto, o objectivo último do tratamento da obesidade é a perda de peso a longo-prazo.
+## As perdas de peso a curto-prazo são bastante frequentes e podem atingir-se com vários tipos de intervenções. No entanto, o objectivo último do tratamento da obesidade é a perda de peso a longo-prazo.
 
 Manter a perda de peso por mais de um ano é um objectivo difícil de conseguir, possivelmente porque acabam por se estabelecer mecanismos de adaptação fisiológicos e comportamentais. Existe alguma evidência que sugere que os processos fisiológicos que facilitam a recuperação do peso anterior são postos em marcha depois uma pequena perda de peso. Esses processos são a redução do metabolismo basal, o aumento do apetite e a preferência por alimentos ricos em calorias. Estes tipos de processos fisiológicos desencorajarão o equilíbrio energético após a perda de peso e aumentam a probabilidade de estabelecimento de um novo balanço energético positivo. Assim, fisiologicamente, o organismo parece «lutar contra» a redução do peso.
 

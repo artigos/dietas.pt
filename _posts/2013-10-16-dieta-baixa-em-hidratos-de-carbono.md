@@ -3,9 +3,9 @@ layout: default
 title: Dieta baixa em hidratos de carbono
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Uma dieta com reduzidos hidratos de carbono irá fazer com que perca peso e se mantenha saudável.
+## Uma dieta com reduzidos hidratos de carbono irá fazer com que perca peso e se mantenha saudável.
 
 Aliada a uma actividade física regular, é a solução ideal para se emagrecer.
 

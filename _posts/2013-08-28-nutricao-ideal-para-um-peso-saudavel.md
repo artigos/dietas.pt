@@ -3,9 +3,9 @@ layout: default
 title: Nutrição ideal para um peso saudável
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##As _DHHS/USDA Dietary Guidelines_ são tão neutras quanto possível em relação aos padrões alimentares específicos.
+## As _DHHS/USDA Dietary Guidelines_ são tão neutras quanto possível em relação aos padrões alimentares específicos.
 
 Elas proporcionam 10 princípios simples para a dieta e exercício físico que são compatíveis com a aderência a longo prazo:
 

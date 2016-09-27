@@ -3,7 +3,7 @@ layout: default
 title: Dieta da sopa
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Se tiver de perder peso rapidamente, a Dieta da Sopa talvez seja o que sempre procurou.
 Embora não seja uma dieta de longa duração, a Dieta da Sopa é baixa em gordura, alta em fibra e irá ajudá-la a perder 3-4kg em apenas 7 dias.
@@ -11,7 +11,7 @@ Embora não seja uma dieta de longa duração, a Dieta da Sopa é baixa em gordu
 As vantagens desta dieta é a rapidez com que irá perder peso e a facilidade de a realizar.
 As desvantagens são a falta de sabor da sopa e a fraqueza que algumas pessoas sentem no final da semana de dieta, pessoas essas que dizem que vale a pena pela quantidade de peso perdido.
 
-##Os Seis Princípios para o Sucesso
+## Os Seis Princípios para o Sucesso
 
 1. Siga a dieta religiosamente;
 2. Beba pelo menos 4 copos de água por dia;
@@ -20,7 +20,7 @@ As desvantagens são a falta de sabor da sopa e a fraqueza que algumas pessoas s
 5. Coma quanta sopa quiser, passar fome não é o objectivo desta dieta.
 6. Tente diferentes especiarias para melhorar o sabor da sopa.
 
-##Receita da Dieta da Sopa
+## Receita da Dieta da Sopa
 
 * 6 grandes cebolas verdes;
 * 2 pimentos verdes;
@@ -33,7 +33,7 @@ As desvantagens são a falta de sabor da sopa e a fraqueza que algumas pessoas s
 * Azeite q.b.
 * Condimentos q.b. (sal, pimenta, alho, caril, etc).
 
-##Instruções para a Dieta da Sopa
+## Instruções para a Dieta da Sopa
 
 1. Corte as cebolas, coloque-as num tacho e refogue em azeite.
 2. Corte os pimentos, tirando as sementes e a membrana e adicione-os ao tacho com as cebolas.
@@ -45,7 +45,7 @@ As desvantagens são a falta de sabor da sopa e a fraqueza que algumas pessoas s
 8. Utilize aproximadamente 12 copos de água, cubra e coloque o fogão no mínimo. Deixe a sopa cozinhar cerca de 2 horas.
 9. Adicione sal e pimenta à descrição.
 
-##Plano para os 7 dias da Dieta da Sopa
+## Plano para os 7 dias da Dieta da Sopa
 
 Lembre-se que esta dieta deverá ser realizada apenas durante 7 dias, com pelo menos 2 semanas de intervalo entre dietas.
 

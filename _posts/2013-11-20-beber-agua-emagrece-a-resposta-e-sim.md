@@ -3,13 +3,13 @@ layout: default
 title: Beber água emagrece? A resposta é sim!
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Sim, beber água emagrece.
+## Sim, beber água emagrece.
 
 Há estudos que provam que beber água queima calorias, cerca de 50 calorias por cada litro de água consumido.
 
-##Porque é que beber água emagrece?
+## Porque é que beber água emagrece?
 
 Beber água quando se sente cheia irá fazer com que o seu estômago esteja mais cheio e como tal irá sentir-se saciada mais rapidamente. Além do mais, beber água ajuda a aumentar o metabolismo corporal.
 

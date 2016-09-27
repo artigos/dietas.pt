@@ -3,9 +3,9 @@ layout: default
 title: Continue a comer o que gosta quando inicia uma dieta! Não se irá arrepender.
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Muitas são as vezes em que se corta na comida favorita quando se inicia uma dieta.
+## Muitas são as vezes em que se corta na comida favorita quando se inicia uma dieta.
 
 Ora, estudos comprovam que este tipo de acto pode resultar nas primeiras semanas mas que no final das mesmas o desejo pela comida favorita irá voltar e a quantidade que se irá consumir irá ser ainda maior.
 

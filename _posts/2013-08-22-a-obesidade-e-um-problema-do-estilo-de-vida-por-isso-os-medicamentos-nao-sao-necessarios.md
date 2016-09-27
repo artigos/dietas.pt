@@ -3,9 +3,9 @@ layout: default
 title: Mito, A obesidade é um problema do estilo de vida, por isso, os medicamentos não são necessários
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Os dados existentes sugerem que assim não é e que as alterações dos hábitos de vida, por si só, não resolvem o problema em todos os doentes.
+## Os dados existentes sugerem que assim não é e que as alterações dos hábitos de vida, por si só, não resolvem o problema em todos os doentes.
 
 A obesidade tem bases genéticas e fisiológicas bem definidas que se expressam pelo excesso de peso num ambiente em que existe baixo dispêndio e alta ingestão de energia. Os resultados da investigação mostraram que existem diferenças individuais na fisiologia que levam a efeitos no peso corporal e que condicionam a forma como se ganha ou se perde peso sob determinadas condições de hábitos de vida. Pode ser mais difícil para certas pessoas em relação a outras perder peso e manter essas perdas.
 

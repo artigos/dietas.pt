@@ -3,9 +3,9 @@ layout: default
 title: Dieta Recomendada
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##É de grande importância fazer a distinção entre os conceitos necessidades e recomendações dietéticas.
+## É de grande importância fazer a distinção entre os conceitos necessidades e recomendações dietéticas.
 
 As primeiras estabelecem-se a um nível individual calculando o valor calórico que cada indivíduo necessita para manter o seu bem-estar e o valor contido em cada nutriente. As segundas porém, correspondem às necessidades médias calculadas para um grupo, acrescentando uma margem de segurança que cubra as necessidades de 97,5% dos indivíduos do referido grupo. Assim, as recomendações dietéticas são valores superiores àqueles que foram estabelecidas através do cálculo das necessidades estritas de um determinado indivíduo.
 
@@ -34,7 +34,7 @@ Vitamina B1, (mg/dia)             | 3,0            | 3,0
 Biotina (mg/dia)                  | 100-200        | 100-200
 Ácido pantoténico (mg/dia)        | 4,7
 
-##Necessidades
+## Necessidades
 
 Para se estabelecer uma ingestão calórica adequada para cada indivíduo, é necessário calcular as suas necessidades energéticas atendendo aos diferentes factores que a determinam, tais como:
 
@@ -49,7 +49,7 @@ Entende-se por metabolismo basal a actividade metabólica que é necessária par
 
 Não obstante, sob um ponto de vista prático é muito mais rápido aplicar a fórmula de 1 kcal/h/kg, nos homens e 0,9 kcal/h/kg nas mulheres. A este cálculo metabólico basal é necessário adicionar vários factores de correcção atendendo ao grau de actividade física.
 
-###Trabalho ligeiro (2,5-4,9 kcal/minuto)
+### Trabalho ligeiro (2,5-4,9 kcal/minuto)
 
 * Indústrias eléctricas
 * Linhas de montagem
@@ -61,7 +61,7 @@ Não obstante, sob um ponto de vista prático é muito mais rápido aplicar a f�
 * Trabalho agrícola (mecanizado)
 * Trabalho em oficina
 
-###Trabalho moderado (5,0-7,4 kcal/minuto)
+### Trabalho moderado (5,0-7,4 kcal/minuto)
 
 * Trabalhos de pá e picareta
 * Trabalho agrícola não mecanizado
@@ -69,12 +69,12 @@ Não obstante, sob um ponto de vista prático é muito mais rápido aplicar a f�
 * Jogar ténis
 * Andar de bicicleta
 
-###Trabalho pesado (7,5-9,9 kcal/minuto)
+### Trabalho pesado (7,5-9,9 kcal/minuto)
 
 * Mina de carvão
 * Jogar futebol
 
-###Trabalho muito pesado (10,0 kcal/minuto)
+### Trabalho muito pesado (10,0 kcal/minuto)
 
 * Trabalho de lenhador
 * Trabalho em alto forno

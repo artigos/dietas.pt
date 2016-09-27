@@ -3,9 +3,9 @@ layout: default
 title: Faça a dieta imagine e perca peso
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Vamos chamar-lhe dieta imagine. Não terá de contar calorias, memorizar regras ou escolher alimentos
+## Vamos chamar-lhe dieta imagine. Não terá de contar calorias, memorizar regras ou escolher alimentos
 
 Se um amigo seu por exemplo deixou uma caixa de chocolates em sua casa, imagina que os está a comer. É tão simples quanto isso.
 

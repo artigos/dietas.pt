@@ -3,9 +3,9 @@ layout: default
 title: O segredo para perder peso – Exercício
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Infelizmente a dieta só por si não tem provado ser útil a longo prazo. Mais de 90% das pessoas que tentam perder peso voltam a ganhá-lo novamente. A dieta, associada a exercício físico e a terapia cognitivo-comportamental pode ser mais eficaz.
+## Infelizmente a dieta só por si não tem provado ser útil a longo prazo. Mais de 90% das pessoas que tentam perder peso voltam a ganhá-lo novamente. A dieta, associada a exercício físico e a terapia cognitivo-comportamental pode ser mais eficaz.
 
 O aumento de peso está dependente do diferencial energético entre o aporte e o consumo, sendo 0,45 kg equivalentes a 3500 calorias. Um indivíduo que consome mais 500 calorias em relação ao que gasta diariamente ganhará 0,45 kg de peso por semana. O peso corporal tende a variar 10% a partir de um determinado valor.
 

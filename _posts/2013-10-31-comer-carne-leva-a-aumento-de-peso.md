@@ -3,9 +3,9 @@ layout: default
 title: Comer carne leva a aumento de peso!
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A carne, quer seja carne de vaca, carne de porco, frango ou peixe é comida com alto teor energético, este alto teor irá traduzir-se num grande número de calorias ingeridas.
+## A carne, quer seja carne de vaca, carne de porco, frango ou peixe é comida com alto teor energético, este alto teor irá traduzir-se num grande número de calorias ingeridas.
 
 Ao contrário dos vegetais que têm fibra, fazendo deles um alimento pouco calórico a carne não tem fibra e um recente estudo mostrou que as calorias da carne irão traduzir-se num aumento do peso com o decorrer do tempo.
 

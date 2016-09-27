@@ -3,9 +3,9 @@ layout: default
 title: Dieta Mediterrânica
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A Dieta Mediterrânica é património mundial e não é por acaso, é uma das formas de alimentação mais saudáveis em todo o planeta.
+## A Dieta Mediterrânica é património mundial e não é por acaso, é uma das formas de alimentação mais saudáveis em todo o planeta.
 
 O bem essencial desta dieta é sem dúvida a água, esta constitui 50-60% do nosso corpo e participa de forma activa na digestão, no transporte de nutrientes para as células, na regulação da temperatura corporal, na proteção de órgãos, articulações e na eliminação de impurezas.
 

@@ -3,9 +3,9 @@ layout: default
 title: Dieta DASH é considerada a melhor
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Se está a tentar perder peso, reduzir a pressão arterial ou combater a diabetes há um novo estudo que diz que para cada problema há uma dieta diferente.
+## Se está a tentar perder peso, reduzir a pressão arterial ou combater a diabetes há um novo estudo que diz que para cada problema há uma dieta diferente.
 
 O estudo realizado confirmou que não há uma dieta geral que dê para todas as pessoas e todos os objectivos, contudo a dieta DASH \[Dietary Approaches to Stop Hypertension\] bateu 19 das 20 dietas, incluindo Atkins, Jenny Craig e Slim-Fast e sagrou-se como a melhor dieta em termos gerais.
 

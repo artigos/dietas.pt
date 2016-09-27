@@ -3,9 +3,9 @@ layout: default
 title: Dieta Pronokal
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A Pronokal é uma empresa especializada na perda de peso mediante um método baseado na Dieta Proteinada.
+## A Pronokal é uma empresa especializada na perda de peso mediante um método baseado na Dieta Proteinada.
 
 Esta empresa realiza um tratamento de perda de peso com base numa dieta proteinada, sendo o emagrecimento conseguido com a redução de gorduras e açúcares. Existem também um controlo médico personalizado porque cada pessoa tem as suas necessidades específicas. O Método PronoKal® inclui ainda o fornecimento de complementos vitamínicos que evitam estados carenciais.
 

@@ -3,21 +3,21 @@ layout: default
 title: Expectativas realistas para a perda de peso
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A obesidade nos adolescentes encontra-se entre as situações crónicas mais frustrantes que os médicos de familia têm de tratar, embora a sua prevalência crescente e riscos de mortalidade associados sublinhem a necessidade de esforços médicos continuados.
+## A obesidade nos adolescentes encontra-se entre as situações crónicas mais frustrantes que os médicos de familia têm de tratar, embora a sua prevalência crescente e riscos de mortalidade associados sublinhem a necessidade de esforços médicos continuados.
 
 A obesidade nas crianças entre os 8 e os 16 anos mais do que duplicou numa geração. O peso excessivo correlaciona-se com taxas aumentadas de diabetes, hipercolesterolémia, hipertrigliceridémia, perturbações do sono e hipertensão. À medida que a idade aumenta, o mesmo acontece com o risco de continuar a ter peso excessivo e de apresentar problemas de saúde com ele relacionados ao longo da vida. Além disso, a American Heart Association referiu que os números totais de mortes anuais devido a morte súbita de causa cardíaca nos adolescentes e adultos jovens aumentaram em 10% para 3.000 entre 1989 e 1996.2 Assim, a adolescência é uma altura primordial para intervir.
 
-##Identificação da Obesidade
+## Identificação da Obesidade
 
 O índice de massa corporal (IMC) é a medida mais amplamente aceite da obesidade nas crianças, adolescentes e adultos. Para além de utilizar um gráfico, pode calcular facilmente o IMC [clicando aqui](http://www.caloriecontrol.org/bmi.html). Os CDC publicaram recentemente gráficos pediátricos de crescimento revistos que incluem uma nova avaliação dos percentis para o IMC e que permitem aos médicos calcular variações de peso aceitáveis com base na idade e no sexo (Figuras 1 e 2).
 
-###Raparigas
+### Raparigas
 
 ![Figura 1](/assets/figura-1.png)
 
-###Rapazes
+### Rapazes
 
 ![Figura 2](/assets/figura-2.png)
 

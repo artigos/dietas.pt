@@ -3,20 +3,20 @@ layout: default
 title: Dieta baixa em hidratos de carbono, perca peso de forma saudável
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Uma dieta com reduzidos hidratos de carbono irá fazer com que perca peso e se mantenha saudável sem fazer grandes alterações ao seu plano alimentar.
+## Uma dieta com reduzidos hidratos de carbono irá fazer com que perca peso e se mantenha saudável sem fazer grandes alterações ao seu plano alimentar.
 
 Não é uma dieta tão drástica como a dieta de Atkins, por exemplo, mas reduzindo o nível de hidratos de carbono poderá ajudá-la a estabilizar os níveis de açúcar no sangue sem grandes alterações na sua dieta alimentar.
 
-##Benefícios de uma dieta com baixo teor de hidratos de carbono
+## Benefícios de uma dieta com baixo teor de hidratos de carbono
 
 A maioria dos especialistas concordam de que é necessário ingerir hidratos de carbono para se ter uma alimentação saudável, mas o que acontece na maioria dos casos é que se comem hidratos de carbono em demasia, fazendo com que se ganhe peso. Esta ingestão em demasia, associada à fraca qualidade dos hidratos de carbono ingeridos, como pão branco, arroz branco, massas não integrais e outros hidratos de carbono processados não deviam fazer parte de uma alimentação saudável.
 
 Optar por uma dieta baixa em hidratos de carbono, fazendo uma escolha inteligente pelos “bons” hidratos de carbono, irá ajudá-la a controlar os níveis de açúcar no sangue e como resultado, irá perder peso de uma forma saudável. A ingestão de hidratos de carbono refinados faz com que os níveis de açúcar no sangue aumentem e irão fazer com que sinta vontade de ingerir ainda mais “maus” hidratos de carbono, que adicionam ainda mais calorias à sua dieta, e o ciclo repete-se.
 Escolher os “bons” hidratos de carbono e comer uma menor quantidade deles é a opção ideal para perder peso, manter uma dieta saudável e não passar fome ou a maioria do tempo a pensar em comida.
 
-##Plano para uma dieta baixa em hidratos de carbono
+## Plano para uma dieta baixa em hidratos de carbono
 
 Se quiser começar a fazer uma dieta com reduzidos hidratos de carbono e cerca de 1600 calorias por dia, o primeiro passo é descobrir quantas calorias consome em média por dia, ao fazer isso irá verificar duas coisas, a primeira é se consome mais do que 1600 calorias e a segunda é que alterações teria de fazer à sua actual dieta para passar à nova e começar a perder peso de forma saudável.
 

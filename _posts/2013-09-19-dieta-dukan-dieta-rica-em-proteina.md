@@ -3,9 +3,9 @@ layout: default
 title: Dieta Dukan – dieta rica em proteína
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A dieta dukan foi criada pelo nutricionista Dr. Pierre Dukan em França e baseia-se em proteína. Esta dieta é feita por algumas celebridades, como a Gisele Bundchen e Jennifer Lopez.
+## A dieta dukan foi criada pelo nutricionista Dr. Pierre Dukan em França e baseia-se em proteína. Esta dieta é feita por algumas celebridades, como a Gisele Bundchen e Jennifer Lopez.
 
 A dieta dukan oferece uma rápida perda de peso, e continua com uma duradoura manutenção do peso. O segredo desta dieta é a proteína, pode parecer-se com a dieta de Atkins mas é bastante diferente. Esta dieta começou quando um amigo do criador o questionou por qualquer dieta, mas que não tivesse de parar de comer carne, dito isto o Dr. Dunkan disse-lhe para comer apenas proteína e beber água durante 5 dias. Quando estes dias chegaram ao fim, o amigo tinha perdido 5kg, e perdeu mais 3 durante a semana seguinte.
 

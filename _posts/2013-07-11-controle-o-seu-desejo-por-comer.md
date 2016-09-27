@@ -3,9 +3,9 @@ layout: default
 title: Controle o seu desejo por comer
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##O desejo por comer doces pode ser controlado de forma eficiente.
+## O desejo por comer doces pode ser controlado de forma eficiente.
 
 Sabia que o desejo por comer doces pode ser controlado de forma eficiente em apenas 4 simples passos:
 

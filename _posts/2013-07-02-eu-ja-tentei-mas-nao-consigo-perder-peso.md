@@ -3,9 +3,9 @@ layout: default
 title: Eu já tentei mas não consigo perder peso
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A impossibilidade de perder peso pode estar associada a problemas maiores.
+## A impossibilidade de perder peso pode estar associada a problemas maiores.
 
 Se costuma fazer afirmações do género: “Eu estou a fazer tudo, eu venho às reuniões, eu preencho os meus diários alimentares, eu ando a pé 30 minutos praticamente todos os dias. Mas eu não consigo controlar as minhas doses, eu como demais e eu ainda estou a comer gorduras em excesso”.
 

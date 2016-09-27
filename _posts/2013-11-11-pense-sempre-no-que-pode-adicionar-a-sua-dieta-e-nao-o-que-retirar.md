@@ -3,9 +3,9 @@ layout: default
 title: Pense sempre no que pode adicionar à sua dieta e não o que retirar!
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##A melhor forma de encarar uma dieta é mesmo como uma nova etapa na sua vida, e experimentar coisas novas na sua dieta.
+## A melhor forma de encarar uma dieta é mesmo como uma nova etapa na sua vida, e experimentar coisas novas na sua dieta.
 
 Não pense só em retirar porque isso irá fazer com que sinta que está a fazer um sacrifício, pense sempre o que adicionar ou substituir para tornar a experiência de fazer uma dieta menos penosa.
 

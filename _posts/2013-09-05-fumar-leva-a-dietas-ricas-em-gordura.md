@@ -3,9 +3,9 @@ layout: default
 title: Fumar leva a dietas ricas em gordura
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
-##Há um risco significativo entre o fumar e uma dieta com alto risco de arteriosclerose, cancro e outras doenças degenerativas.
+## Há um risco significativo entre o fumar e uma dieta com alto risco de arteriosclerose, cancro e outras doenças degenerativas.
 
 A forte ligação que existe entre o tabaco e doenças coronárias, enfartes, entre outras doenças poderá estar relacionado com a associação a dietas ricas em gordura. A dieta rica em gordura que os fumadores têm tendência a realizar estará também ligada ao facto de que eles são mais propícios a ficar com diabetes do tipo 2.
 
